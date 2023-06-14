@@ -1,0 +1,13 @@
+class Circle : public Shape
+{
+public:
+    void draw()
+    {
+       /*
+       
+        Body of program
+
+       */
+    }
+};
+
